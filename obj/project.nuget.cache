@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3z2R4RvimxHzqnrs0WsX203a5lGoV02YvCvY2U4WsiBZHZafWM1BK5CQR0VzvPS3iGeJJUOjxfftXKPcr3nNwA==",
+  "dgSpecHash": "jmzZZbGnb74rzBl5N9NXznUfsyg5gR9eUju+v7zV1ZX/QmUKcbyi4epar0T07V28r/34ldzr9mOhmtU83eZtCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\dotnet-todo-tasks-api\\ApiTarefas.csproj",
+  "projectFilePath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\api-dotnet-csharp\\ApiTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ViniciusVianaDeniz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ViniciusVianaDeniz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

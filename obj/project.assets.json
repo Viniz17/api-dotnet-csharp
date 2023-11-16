@@ -2731,11 +2731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\dotnet-todo-tasks-api\\ApiTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\api-dotnet-csharp\\ApiTarefas.csproj",
       "projectName": "ApiTarefas",
-      "projectPath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\dotnet-todo-tasks-api\\ApiTarefas.csproj",
+      "projectPath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\api-dotnet-csharp\\ApiTarefas.csproj",
       "packagesPath": "C:\\Users\\ViniciusVianaDeniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\dotnet-todo-tasks-api\\obj\\",
+      "outputPath": "C:\\Users\\ViniciusVianaDeniz\\Downloads\\DIO\\api-dotnet-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ViniciusVianaDeniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
